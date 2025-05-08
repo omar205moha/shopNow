@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "636508036271",
+    "project_id": "shop-now-48437",
+    "storage_bucket": "shop-now-48437.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636508036271:android:901a472a9c245b638bc85a",
+        "android_client_info": {
+          "package_name": "com.example.shop_now_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636508036271-4l3or2fc20s22gqi8ot26jq3mgdj7cta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_now_mobile",
+            "certificate_hash": "90f5ba85b693ce26c77478fa14f2a8aaa2814d15"
+          }
+        },
+        {
+          "client_id": "636508036271-hn4g25a989av5092m96cjufsrlqmpbgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl0SQtnZN0Dpimnqr03wQQ3YENGvYwP0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636508036271-hn4g25a989av5092m96cjufsrlqmpbgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636508036271-l2jdh164s5mijcmpcl6bp1lp651jt2du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopNowMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

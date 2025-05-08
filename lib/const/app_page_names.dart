@@ -1,0 +1,37 @@
+class AppPageNames {
+  static const String rootScreen = '/';
+  static const String splashScreen = '/splashScreen';
+  static const String introScreen = '/introScreen';
+  static const String loginScreen = '/loginScreen';
+  static const String signUpScreen = '/signUpScreen';
+  static const String supportTicketScreen = '/support-ticket';
+  static const String notificationsScreen = '/notiScreen';
+  static const String signUpSuccessScreen = '/sign-up-success';
+  static const String ticketStatusScreen = '/ticket-status';
+  static const String deleteAccountScreen = '/deleteAccount-screen';
+  static const String unknownScreen = '/unknown';
+  static const String aboutScreen = '/aboutScreen';
+  static const String changeAddressScreen = '/changeAddressScreen';
+  static const String checkoutScreen = '/checkoutScreen';
+  static const String dessertScreen = '/dessertScreen';
+  static const String forgetPwScreen = '/restpwScreen';
+  static const String homeScreen = '/homeScreen';
+  static const String inboxScreen = '/inboxScreen';
+  static const String individualItemScreen = '/individualScreen';
+  static const String landingScreen = '/landingScreen';
+  static const String menuScreen = '/menuScreen';
+  static const String moreScreen = '/moreScreen';
+  static const String myOrderScreen = '/myOrderScreen';
+  static const String newPwScreen = '/newPw';
+  static const String offerScreen = '/offerScreen';
+  static const String paymentScreen = '/paymentScreen';
+  static const String profileScreen = '/profileScreen';
+  static const String sendOTPScreen = '/sendOTP';
+  static const String orderTrackingScreen = '/orderTrackingScreen';
+  static const String shopperDashboardScreen = '/shopperDashboardScreen';
+  static const String shopManagementScreen = '/shopManagementScreen';
+  static const String adminDashboardScreen = '/adminDashboardScreen';
+  static const String shopsListScreen = '/shopsListScreen';
+  static const String shopProductsScreen = '/shopProductsScreen';
+  static const String myOdersScreen = '/myOdersScreen';
+}
